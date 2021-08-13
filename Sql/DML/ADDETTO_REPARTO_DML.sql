@@ -1,9 +1,0 @@
-INSERT INTO ADDETTO_REPARTO (cod_tess_add, cod_tess_sup) VALUES (46201, 56650);
-INSERT INTO ADDETTO_REPARTO (cod_tess_add, cod_tess_sup) VALUES (44195, 56650);
-INSERT INTO ADDETTO_REPARTO (cod_tess_add, cod_tess_sup) VALUES (35365, 41308);
-INSERT INTO ADDETTO_REPARTO (cod_tess_add, cod_tess_sup) VALUES (89892, 41308);
-INSERT INTO ADDETTO_REPARTO (cod_tess_add, cod_tess_sup) VALUES (33089, 56650);
-INSERT INTO ADDETTO_REPARTO (cod_tess_add, cod_tess_sup) VALUES (62016, 41308);
-INSERT INTO ADDETTO_REPARTO (cod_tess_add, cod_tess_sup) VALUES (36997, 88553);
-INSERT INTO ADDETTO_REPARTO (cod_tess_add, cod_tess_sup) VALUES (56611, 41308);
-INSERT INTO ADDETTO_REPARTO (cod_tess_add, cod_tess_sup) VALUES (43163, 41308);

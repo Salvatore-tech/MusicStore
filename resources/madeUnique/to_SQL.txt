@@ -1,0 +1,38 @@
+python toSql.py finalPersona1.csv TEXT TEXT TEXT TEXT TEXT TEXT TEXT NUMBER DATE PERSONA
+python toSql.py finalPersona2.csv TEXT TEXT PERSONA
+python toSql.py finalEvento.csv NUMBER TEXT DATE TEXT TEXT NUMBER EVENTO
+python toSql.py finalAcquirente.csv TEXT ACQUIRENTE
+python toSql.py finalAllievo.csv TEXT ALLIEVO
+python toSql.py finalImpiegato.csv NUMBER TEXT DATE DATE NUMBER IMPIEGATO
+python toSql.py finalSuperv_add_rep.csv NUMBER NUMBER ADDETTO_REPARTO
+python toSql.py finalAddetto_rep.csv NUMBER NUMBER ADDETTO_REPARTO
+python toSql.py finalInsegnante.csv NUMBER TEXT TEXT INSEGNANTE
+python toSql.py finalLiutaio.csv NUMBER TEXT LIUTAIO
+python toSql.py finalReparto.csv NUMBER TEXT NUMBER REPARTO
+python toSql.py finalAcquisto.csv TEXT TEXT DATE NUMBER ACQUISTO
+python toSql.py finalPromozione.csv NUMBER TEXT DATE DATE NUMBER PROMOZIONE
+python toSql.py finalArticolo.csv NUMBER ARTICOLO
+python toSql.py finalDettaglio_acq.csv TEXT NUMBER DETTAGLIO_ACQUISTO
+python toSql.py finalArticoli_scontati.csv NUMBER NUMBER ARTICOLI_SCONTATI
+python toSql.py finalStrumento1.csv TEXT TEXT NUMER NUMBER TEXT STRUMENTO
+python toSql.py finalStrumento2.csv TEXT TEXT STRUMENTO
+python toSql.py finalStrumento3.csv TEXT TEXT STRUMENTO
+python toSql.py finalStrumento_negozio.csv TEXT TEXT NUMBER STRUMENTO_NEGOZIO
+python toSql.py finalStrumento_usato.csv TEXT TEXT STRUMENTO_USATO
+python toSql.py finalLibro.csv TEXT NUMBER TEXT NUMBER NUMBER TEXT TEXT TEXT NUMBER LIBRO
+python toSql.py finalAmplificatore.csv NUMBER TEXT TEXT NUMBER NUMBER TEXT NUMBER AMPLIFICATORE
+python toSql.py finalAnnuncio.csv NUMBER NUMBER DATE NUMBER TEXT TEXT TEXT ANNUNCIO
+python toSql.py finalConsegna.csv TEXT TEXT TEXT TEXT DATE NUMBER CONSEGNA
+python toSql.py finalCorso.csv NUMBER NUMBER TEXT DATE DATE NUMBER CORSO
+python toSql.py finale_iscritto.csv TEXT NUMBER NUMBER E_ISCRITTO
+python toSql.py finalBiglietto.csv NUMBER TEXT NUMBER NUMBER NUMBER BIGLIETTO
+python toSql.py finale_coinvolto.csv NUMBER NUMBER E_COINVOLTO
+python toSql.py finale_relativa.csv TEXT NUMBER E_RELATIVA
+python toSql.py finalEvento.csv NUMBER TEXT DATE TEXT TEXT NUMBER EVENTO
+python toSql.py finalReparto.csv NUMBER TEXT NUMBER REPARTO
+python toSql.py finalReso.csv NUMBER TEXT DATE RESO
+python toSql.py finalSala_prove.csv NUMBER NUMBER NUMBER DATE TEXT NUMBER AFFITTO_SALA_PROVE
+
+
+
+

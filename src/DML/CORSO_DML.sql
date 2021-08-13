@@ -1,0 +1,12 @@
+INSERT INTO CORSO (cod_corso, cod_tess_ins_corso, nome_corso, inizio_corso, fine_corso, prezzo_corso) VALUES (02441, 61377, 'Violin', '16-GEN-2019', '10-OTT-2019', 522.94);
+INSERT INTO CORSO (cod_corso, cod_tess_ins_corso, nome_corso, inizio_corso, fine_corso, prezzo_corso) VALUES (63806, 26344, 'Violin', '16-GEN-2019', '14-SET-2019', 797.27);
+INSERT INTO CORSO (cod_corso, cod_tess_ins_corso, nome_corso, inizio_corso, fine_corso, prezzo_corso) VALUES (03507, 26344, 'Violin', '21-GEN-2019', '16-OTT-2019', 1464.69);
+INSERT INTO CORSO (cod_corso, cod_tess_ins_corso, nome_corso, inizio_corso, fine_corso, prezzo_corso) VALUES (96033, 34087, 'Violin', '07-GEN-2019', '22-SET-2019', 1285.27);
+INSERT INTO CORSO (cod_corso, cod_tess_ins_corso, nome_corso, inizio_corso, fine_corso, prezzo_corso) VALUES (69902, 26344, 'Trumpet', '06-GEN-2019', '22-OTT-2019', 1026.23);
+INSERT INTO CORSO (cod_corso, cod_tess_ins_corso, nome_corso, inizio_corso, fine_corso, prezzo_corso) VALUES (48130, 26344, 'Violin', '20-GEN-2019', '15-OTT-2019', 1405.16);
+INSERT INTO CORSO (cod_corso, cod_tess_ins_corso, nome_corso, inizio_corso, fine_corso, prezzo_corso) VALUES (60258, 45514, 'Violin', '25-GEN-2019', '18-OTT-2019', 1056.23);
+INSERT INTO CORSO (cod_corso, cod_tess_ins_corso, nome_corso, inizio_corso, fine_corso, prezzo_corso) VALUES (77304, 93796, 'Trumpet', '15-GEN-2019', '13-OTT-2019', 522.97);
+INSERT INTO CORSO (cod_corso, cod_tess_ins_corso, nome_corso, inizio_corso, fine_corso, prezzo_corso) VALUES (92683, 61377, 'Guitar', '19-GEN-2019', '16-OTT-2019', 1193.36);
+INSERT INTO CORSO (cod_corso, cod_tess_ins_corso, nome_corso, inizio_corso, fine_corso, prezzo_corso) VALUES (33016, 45514, 'Trumpet', '24-GEN-2019', '31-OTT-2019', 806.17);
+INSERT INTO CORSO (cod_corso, cod_tess_ins_corso, nome_corso, inizio_corso, fine_corso, prezzo_corso) VALUES (72742, 45514, 'Trumpet', '14-GEN-2019', '22-SET-2019', 676.79);
+INSERT INTO CORSO (cod_corso, cod_tess_ins_corso, nome_corso, inizio_corso, fine_corso, prezzo_corso) VALUES (71708, 61377, 'Trumpet', '12-GEN-2019', '16-OTT-2019', 1304.68);

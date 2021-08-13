@@ -1,9 +1,0 @@
-INSERT INTO STRUMENTO2 (nome, categoria) VALUES ('Basso', 'Cordofono');
-INSERT INTO STRUMENTO2 (nome, categoria) VALUES ('Viola', 'Archi');
-INSERT INTO STRUMENTO2 (nome, categoria) VALUES ('Violino', 'Archi');
-INSERT INTO STRUMENTO2 (nome, categoria) VALUES ('Tamburo', 'Membranofono');
-INSERT INTO STRUMENTO2 (nome, categoria) VALUES ('Batteria', 'Membranofono');
-INSERT INTO STRUMENTO2 (nome, categoria) VALUES ('Xilofono', 'Idiofono');
-INSERT INTO STRUMENTO2 (nome, categoria) VALUES ('Sassofono', 'Aerofono');
-INSERT INTO STRUMENTO2 (nome, categoria) VALUES ('Chitarra', 'Cordofono');
-INSERT INTO STRUMENTO2 (nome, categoria) VALUES ('Clarinetto', 'Aerofono');
