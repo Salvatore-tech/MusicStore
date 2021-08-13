@@ -1,0 +1,221 @@
+row_ds_persona,citta_chosen,prefisso,nome,cognome,cf
+1,Aia,+32,Ardeen,Goldney,ARDGOL17J21F472A
+2,Valparaiso,+56,Mair,Klicher,MAIKLI69G42U727A
+3,El Alto,+591,Bel,Beceril,BELBEC30B72I461M
+4,La paz,+591,Kelbee,Slowan,KELSLO35C89J478S
+5,Aosta,+39,Julian,Dayton,JULDAY46S89C693O
+6,Berlino,+49,Janeczka,Pimerick,JANPIM55E82X490S
+7,Rimini,+39,Davine,Waby,DAVWAB07Z09J186X
+8,Berlino,+49,Jacky,Walworth,JACWAL81R24S933M
+9,Manchester,+44,Hansiain,Nyssen,HANNYS00D46B726J
+10,La paz,+591,Rosa,Fulk,ROSFUL03Z63E061F
+11,Monaco,+49,Byrle,Stutter,BYRSTU48C39S591H
+12,Sucre,+591,Lizbeth,Swyne,LIZSWY78D50L839Z
+13,La paz,+591,Lyn,Fear,LYNFEA71Y33T777Q
+14,Bristol,+44,Olenolin,Mackley,OLEMAC39T94H944Z
+15,Valparaiso,+56,Lemmy,Habershon,LEMHAB24N82P321F
+16,Napoli,+39,Carmelle,Trett,CARTRE30U98P182V
+17,Anversa,+32,Willy,Stoggell,WILSTO95D04U777C
+18,Bristol,+44,Jeff,Taunton.,JEFTAU18X76Z296I
+19,Stoccarda,+49,Barclay,Cordero,BARCOR85W32D422H
+20,Berlino,+49,Ariana,Beresford,ARIBER01V67Q986H
+21,Monaco,+49,Deanna,Beade,DEABEA72Z50X567J
+22,Bruxelles,+32,Hasty,Bau,HASBAU22R63Z580K
+23,El Alto,+591,Abey,Errichi,ABEERR75N50M798Z
+24,Napoli,+39,Elmore,Jorioz,ELMJOR13S87D582O
+25,Aosta,+39,Aeriela,Bottlestone,AERBOT87Z83F388B
+26,Norimberga,+49,Abagael,Hing,ABAHIN82K74J620D
+27,Sucre,+591,Torre,Kyttor,TORKYT46T20E436V
+28,Santiago del Cile,+56,Juli,Harber,JULHAR00K72I938C
+29,Punta Arenas,+56,Sybil,Offiler,SYBOFF25Q13M387V
+30,Bruxelles,+32,Yvor,Pirdy,YVOPIR95A00N280J
+31,El Alto,+591,Pall,Crilly,PALCRI30C31K752K
+32,Rimini,+39,Abigael,Heugle,ABIHEU02T82Z198K
+33,Punta Arenas,+56,Jefferey,D'Oyley,JEFD'O81R34Z644B
+34,Aosta,+39,Adrea,Fills,ADRFIL04O77O042N
+35,Aosta,+39,Terese,Ashington,TERASH73F13Q250E
+36,Milano,+39,Joelynn,Wheatman,JOEWHE05D94B136B
+37,El Alto,+591,Gilberto,Lansbury,GILLAN07M20D538U
+38,Napoli,+39,Katerina,Boundey,KATBOU31F10D540U
+39,Liverpool,+44,Alexander,Wiggam,ALEWIG45Q08M795M
+40,Londra,+44,Cassondra,Condliffe,CASCON15Q42I309F
+41,Norimberga,+49,Glyn,Topliss,GLYTOP83I10F364M
+42,Sucre,+591,Florina,Hugk,FLOHUG82C87E428X
+43,Manchester,+44,Charlotte,Crowcher,CHACRO56B63F668N
+44,Rimini,+39,Reggie,Kubach,REGKUB69D78B787I
+45,La paz,+591,Javier,Wrintmore,JAVWRI33S80X746Q
+46,Monaco,+49,Kirstin,Burtwistle,KIRBUR21S57V006J
+47,Napoli,+39,Alvinia,Silcocks,ALVSIL47Q39W342G
+48,La paz,+591,Burke,Hessay,BURHES73B95J298X
+49,Anversa,+32,Kori,Creber,KORCRE81D18W493P
+50,Milano,+39,Cy,Duffield,CYDUF96F23D129L
+51,Bruxelles,+32,Christie,Farrington,CHRFAR56F46D912F
+52,La paz,+591,Jeanette,MacRannell,JEAMAC92Q91L310J
+53,Santiago del Cile,+56,Valaria,Edgin,VALEDG49D46H917G
+54,York,+44,Jackelyn,Froschauer,JACFRO99Z34J514M
+55,Anversa,+32,Wang,Cater,WANCAT15N81O832M
+56,Anversa,+32,Brok,Walcar,BROWAL71X67M066J
+57,Santiago del Cile,+56,Teresa,Nairn,TERNAI17V10M320B
+58,Bruxelles,+32,Jason,Stelljes,JASSTE52I30O283P
+59,El Alto,+591,Nonah,Rasmus,NONRAS18F92L891T
+60,Stoccarda,+49,Flo,Jerson,FLOJER91T74I927V
+61,Bruxelles,+32,Gretel,Oels,GREOEL23Q04U382J
+62,Punta Arenas,+56,Dasie,Allonby,DASALL00I34V033J
+63,El Alto,+591,Lemuel,D' Angelo,LEMD' 95P78H825G
+64,Berlino,+49,Ashlee,Trahearn,ASHTRA95A55T148B
+65,Anversa,+32,Lindsey,Mullins,LINMUL37V31D971K
+66,Stoccarda,+49,Cully,Bailes,CULBAI64U69G528L
+67,Aosta,+39,Harley,Lorek,HARLOR04C94E170U
+68,Liverpool,+44,Trudi,Vasile,TRUVAS47F68O378H
+69,Monaco,+49,Tricia,Scurlock,TRISCU38T71G037L
+70,La paz,+591,Flynn,Dockrill,FLYDOC18L35N846Z
+71,Monaco,+49,Edith,Skiplorne,EDISKI35B36I073O
+72,Berlino,+49,Bettina,Keen,BETKEE46F54B543M
+73,Berlino,+49,Mickie,Castiglio,MICCAS10D32K942T
+74,Bristol,+44,Iggie,Tomowicz,IGGTOM01E66L878W
+75,Anversa,+32,Marrissa,Sarra,MARSAR68O33E188V
+76,Santiago del Cile,+56,Kimmi,Ollerenshaw,KIMOLL42J89E867L
+77,Bristol,+44,Correy,Gamlin,CORGAM46X60B572Z
+78,Norimberga,+49,Clara,Blasdale,CLABLA33X54D515J
+79,Sucre,+591,Edouard,Howis,EDOHOW25Q26V437M
+80,La paz,+591,Perry,Bartozzi,PERBAR58C77L347S
+81,Aia,+32,Bearnard,Levins,BEALEV72P41G636P
+82,Londra,+44,Marsha,Itscowics,MARITS27A36Q413S
+83,Londra,+44,Dick,Brigstock,DICBRI01F40S545N
+84,Napoli,+39,Yves,Pitchers,YVEPIT24E54B160B
+85,Stoccarda,+49,Abbot,Armitage,ABBARM72O27F757V
+86,Monaco,+49,Leicester,Cromblehome,LEICRO49H33Q234J
+87,Anversa,+32,Felice,Alday,FELALD46Z01D783K
+88,Manchester,+44,Aindrea,Peyzer,AINPEY40M10L026L
+89,El Alto,+591,Abbe,Kisting,ABBKIS77E82J490R
+90,Sucre,+591,Sybila,McCaig,SYBMCC53F75B259Y
+91,Monaco,+49,Ilse,Shipsey,ILSSHI37L68F980C
+92,Londra,+44,Aymer,Giamo,AYMGIA59E04S895P
+93,Manchester,+44,Marlee,Gallatly,MARGAL46V80V459L
+94,Stoccarda,+49,Prentiss,Thomasson,PRETHO14K35N288T
+95,Napoli,+39,Ruthann,Carreyette,RUTCAR62K29O226A
+96,Manchester,+44,Georgeanna,Endicott,GEOEND72P73U995L
+97,Norimberga,+49,Jemie,Rilton,JEMRIL92R56A242R
+98,Milano,+39,Liza,Rehorek,LIZREH87S90U538D
+99,Milano,+39,Roxanna,Lynock,ROXLYN42I83M007V
+100,La paz,+591,Serge,Aitchinson,SERAIT62P34B353N
+101,Santiago del Cile,+56,Maxie,Carrivick,MAXCAR80G13P855K
+102,Valparaiso,+56,Essy,Pentecost,ESSPEN25U76E117L
+103,Rimini,+39,Joshua,Simenel,JOSSIM23R91C605G
+104,Aia,+32,Evangelia,Wenden,EVAWEN24L67H395E
+105,Punta Arenas,+56,Joli,Eakley,JOLEAK12L52E980L
+106,Napoli,+39,Jessee,Reede,JESREE82X70J597C
+107,Monaco,+49,Roberta,Volke,ROBVOL29B45S958X
+108,Londra,+44,Rochette,Abthorpe,ROCABT17O06M381X
+109,Aia,+32,Terrel,Gillise,TERGIL22L51P660U
+110,Rimini,+39,Othella,Pedel,OTHPED54J92F027O
+111,Aia,+32,Garvey,MacCafferky,GARMAC69Y71P582N
+112,El Alto,+591,Christie,Gudgion,CHRGUD06S09Z790L
+113,La paz,+591,Concettina,Chicken,CONCHI80X33P399O
+114,Napoli,+39,Krystal,Lowdyane,KRYLOW32R89D891O
+115,Rimini,+39,Jacqui,Stentiford,JACSTE10K48L184U
+116,Sucre,+591,Towney,Hebborn,TOWHEB10M77Z836H
+117,Bristol,+44,Aguste,Chalfant,AGUCHA35K14H776F
+118,Aia,+32,Hamlin,Dik,HAMDIK32O35N687W
+119,Punta Arenas,+56,Dylan,Barrowcliffe,DYLBAR84H46O674Y
+120,Sucre,+591,Blake,Liversage,BLALIV92D56F117L
+121,Liverpool,+44,Shermy,Drinan,SHEDRI41W82K786B
+122,Milano,+39,Gipsy,Arnow,GIPARN30G95K926Y
+123,Anversa,+32,Inga,Meharg,INGMEH58Z27R295Q
+124,Sucre,+591,Wait,Halward,WAIHAL21K20O892W
+125,Stoccarda,+49,Garry,Fashion,GARFAS66D06N566R
+126,Sucre,+591,Jorry,Goodwins,JORGOO80A70I350B
+127,El Alto,+591,Morris,Feldbaum,MORFEL18T72Q899R
+128,Aosta,+39,Lucretia,Wallwork,LUCWAL38T63R732Y
+129,Valparaiso,+56,Maddy,Obin,MADOBI22M60M374B
+130,Santiago del Cile,+56,Ariana,Ostrich,ARIOST16C49D642U
+131,Bruxelles,+32,Nelle,Binning,NELBIN54B87Q553I
+132,Sucre,+591,Laural,Jest,LAUJES96U04D810C
+133,Stoccarda,+49,Minta,Glasser,MINGLA13K08T035E
+134,Bruxelles,+32,David,Braam,DAVBRA17P41T867I
+135,La paz,+591,Hanni,Ormiston,HANORM48R26L630P
+136,Punta Arenas,+56,Otis,Lippitt,OTILIP43G02L704C
+137,Anversa,+32,Kerr,Massey,KERMAS11J99D312N
+138,Bristol,+44,Perry,Dulinty,PERDUL50A22W076I
+139,El Alto,+591,Christian,Kyrkeman,CHRKYR13B82H018T
+140,Stoccarda,+49,Celia,Lampett,CELLAM96Z25J052F
+141,Norimberga,+49,Carol-jean,Heller,CARHEL35Q84E739S
+142,Santiago del Cile,+56,Heall,Kaaskooper,HEAKAA43H92C474G
+143,Aia,+32,Drucill,Farquhar,DRUFAR07C62P019J
+144,El Alto,+591,Mellisent,Hasser,MELHAS87O61D071A
+145,Punta Arenas,+56,Lelia,Stannett,LELSTA78C10U090M
+146,Monaco,+49,Georgie,Ilyushkin,GEOILY76A25A937P
+147,Bruxelles,+32,Coreen,Sweetnam,CORSWE04T31V969G
+148,Santiago del Cile,+56,Oliver,Rickerby,OLIRIC91S20H654B
+149,Aosta,+39,Ashley,Seaking,ASHSEA49Y38Q978K
+150,Manchester,+44,Ruthie,Shillington,RUTSHI96G30F109N
+151,Valparaiso,+56,Mic,Conws,MICCON26M25T971B
+152,Napoli,+39,Harald,Apperley,HARAPP19E16J276D
+153,Bruxelles,+32,Thornie,Robertshaw,THOROB38U28J989D
+154,Sucre,+591,Tallie,Winscum,TALWIN38R95D542L
+155,Londra,+44,Chelsie,Service,CHESER16F53M165P
+156,Napoli,+39,Dory,Inggall,DORING02P77O472A
+157,El Alto,+591,Helene,Dark,HELDAR86F78M593W
+158,Napoli,+39,Cherlyn,Richardin,CHERIC21J27X712F
+159,Aia,+32,Nicoli,Videneev,NICVID78G98K901F
+160,Milano,+39,Onofredo,Hemerijk,ONOHEM53N44W554X
+161,El Alto,+591,Kennith,Geake,KENGEA38W93O077T
+162,Anversa,+32,Sofie,Gatch,SOFGAT62L09D312J
+163,Aosta,+39,Tallie,Balsdon,TALBAL37K28G510O
+164,Milano,+39,Randi,Maybey,RANMAY62G20P870H
+165,Liverpool,+44,Caritta,Ossenna,CAROSS15G08A778I
+166,Punta Arenas,+56,Brendon,Shorton,BRESHO98E91K055M
+167,La paz,+591,Heinrik,Pammenter,HEIPAM68G88H263A
+168,Sucre,+591,Codie,Lockhurst,CODLOC87K34E897W
+169,Napoli,+39,Nicolle,Fielders,NICFIE89H20K555X
+170,Londra,+44,Alvin,Wormell,ALVWOR43E10D756L
+171,Stoccarda,+49,Alejandrina,Grunnill,ALEGRU92B13O501Q
+172,Norimberga,+49,Alissa,Cornew,ALICOR99K79Z866P
+173,La paz,+591,Jesse,Norcliffe,JESNOR00F67I553Z
+174,Punta Arenas,+56,Rooney,Marchelli,ROOMAR02C08W105D
+175,Bruxelles,+32,Maryanna,Kivits,MARKIV72D79R963D
+176,Rimini,+39,Mallory,Witherup,MALWIT04X25N110F
+177,Punta Arenas,+56,Cullie,Whaymand,CULWHA60Z85N577A
+178,Sucre,+591,Della,Mushawe,DELMUS79M74T240T
+179,Valparaiso,+56,Edyth,Iacopo,EDYIAC03Q54K669S
+180,Norimberga,+49,Teddy,Dwire,TEDDWI11G36P581S
+181,Sucre,+591,Liesa,Crossan,LIECRO95O95J441Y
+182,El Alto,+591,Orel,Andrassy,OREAND30N98L901X
+183,Anversa,+32,Winona,Whyteman,WINWHY52E05N743Y
+184,Milano,+39,Donovan,Brezlaw,DONBRE57W66I877L
+185,Valparaiso,+56,Ursa,Osband,URSOSB92M68V145A
+186,Santiago del Cile,+56,Kata,Andreia,KATAND60C44Y246B
+187,Monaco,+49,Darnell,Gounin,DARGOU72T23V869A
+188,Bruxelles,+32,Rory,Hanhart,RORHAN76G38E315Y
+189,Bruxelles,+32,Udell,Crunkhurn,UDECRU25W80T213G
+190,Norimberga,+49,Boote,Huard,BOOHUA45O42S855J
+191,Valparaiso,+56,Shell,Tetsall,SHETET52H72O600Q
+192,York,+44,Modesty,Torbet,MODTOR26G20U617S
+193,Anversa,+32,Damian,Longlands,DAMLON46Q11R199T
+194,Monaco,+49,Ed,Rankmore,EDRAN33C16G346R
+195,Anversa,+32,Merry,Weippert,MERWEI09Y63O301N
+196,Anversa,+32,Goddart,Furber,GODFUR40E06G083X
+197,Anversa,+32,Woody,Coper,WOOCOP50D56D644P
+198,Bristol,+44,Markos,Tireman,MARTIR96S69O181B
+199,Anversa,+32,Rachelle,Binder,RACBIN09L33P571R
+200,Valparaiso,+56,Jaye,Eisikowitch,JAYEIS32T61V223Y
+201,Londra,+44,Sadella,Greathead,SADGRE38B33C789Z
+202,Stoccarda,+49,Spense,Welfare,SPEWEL60Y11G996H
+203,Liverpool,+44,Gayler,Willstrop,GAYWIL67J16U916Q
+204,Napoli,+39,Leyla,Haggett,LEYHAG77X72T013W
+205,Santiago del Cile,+56,Gretal,Cluderay,GRECLU04B29Q383H
+206,Santiago del Cile,+56,Clifford,Berrick,CLIBER41O61T216I
+207,Stoccarda,+49,Lynnet,Calvert,LYNCAL00R09I423G
+208,York,+44,Neely,Pettiford,NEEPET25S02G068K
+209,El Alto,+591,Josie,Urquhart,JOSURQ35Z20M493P
+210,Londra,+44,Luke,Budibent,LUKBUD61Q73I724G
+211,Anversa,+32,Em,Egalton,EMEGA24I64I508L
+212,El Alto,+591,Gery,MacNeilley,GERMAC06V42Y114Y
+213,Stoccarda,+49,Aurelia,Jarred,AURJAR22Q48F501U
+214,Liverpool,+44,Domeniga,Bernadzki,DOMBER88Y72L969P
+215,Berlino,+49,Courtnay,Eamer,COUEAM87K85A670F
+216,Punta Arenas,+56,Chelsy,Gorler,CHEGOR26R93V209B
+217,El Alto,+591,Aleece,Pedycan,ALEPED21C31X453F
+218,El Alto,+591,Auroora,Eblein,AUREBL61R02K461F
+219,York,+44,Anett,Coy,ANECOY95D47R844F
+220,Aia,+32,Lin,Soots,LINSOO08V57G656Y
